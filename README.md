@@ -12,7 +12,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Recipe Card Collection][recipe-screenshot]](https://github.com/AndreaJasper/recipe-card-collection)
+[![Recipe Card Collection][product-screenshot]](https://github.com/AndreaJasper/recipe-card-collection)
 
 A simple practice piece from Skillcrush working on pixel perfect layout and clean code.
 
