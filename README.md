@@ -3,7 +3,6 @@
 
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
-* [License](#license)
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
 
